@@ -92,7 +92,7 @@ async def cb_navg(bot, update: CallbackQuery):
 
     if not int(index_val) == 0:    
         temp_results.append([
-            InlineKeyboardButton(f"🔰 Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"⭕ Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} ⭕", callback_data="ignore")
         ])
     
     if show_invite and int(index_val) !=0 :
@@ -139,7 +139,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+    text=f"<i>⚜️check links at @cml_links ⚜️Found</i> <code>{leng}</code> <i>Results For Your Request clichere 👇👇👇:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -214,7 +214,7 @@ async def cb_settings(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close 🤧", callback_data="close"
                 )
         ]
     ]
@@ -408,7 +408,7 @@ async def cb_set(bot, update: CallbackQuery):
             
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close 🤧", callback_data="close"
                 )
         ]
     ]
@@ -428,12 +428,12 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/CrazyBotsz'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('My Dev 🤭', url='https://t.me/The_bad_boyii'),
+            InlineKeyboardButton('Source Code 🙄', url ='https://github.com/Lallu-lallus/Adv-auto-filter-v3')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Support😬', url='https://t.me/CrazyBotszGrp')
         ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
+            InlineKeyboardButton('Help 🤦‍♂️', callback_data="help")
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -448,10 +448,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "help":
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('About 🚩', callback_data='about')
+            InlineKeyboardButton('Home 😜', callback_data='start'),
+            InlineKeyboardButton('About 🤭', callback_data='about')
         ],[
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('Close 🤧', callback_data='close')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -466,8 +466,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('Home 😜', callback_data='start'),
+            InlineKeyboardButton('Close 🤧', callback_data='close')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
