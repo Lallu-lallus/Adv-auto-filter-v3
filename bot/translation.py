@@ -14,7 +14,7 @@ appol njan movie thara🤓😜allathe ibada nokki ninnattu oeu karyom illa🤦�
 
 Aarade nee🤦‍♂️ avan helpum choichu vannirikkunnu ninakku njan ippam help thara
 ninakkonnum vere paniyille😂 odra🤧ninakkodanulla kandam dha avide poii odikko😂🤧🤓
-aa saidilottu mari iru 😂poda kocherakka😂
+aa saidilottu mari iru 😂poda kocherakka😂"""
 
     
     ABOUT_TEXT = """<b> Name</b> : <code> Auto Filter Bot</code>
