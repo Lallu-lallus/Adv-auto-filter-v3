@@ -17,7 +17,7 @@ ninakkonnum vere paniyille😂 odra🤧ninakkodanulla kandam dha avide poii odik
 aa saidilottu mari iru 😂poda kocherakka😂
 
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>☀︎︎ Name</b> : <code> Auto Filter Bot</code>
     
 <b>☀︎︎ Creator</b> : <b><i><a href="https://t.me/The_bad_boyii">The_bad_boyii</a></i></b>
 
