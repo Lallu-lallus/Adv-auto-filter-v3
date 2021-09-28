@@ -5,16 +5,16 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-Athe njan @cinemaheavens groupile file share bot ahnu🤓ningalkku enne vere evideyum use cheyyan kazhiyilla
+Athe njan @cinemagenix2021 groupile file share bot ahnu🤓ningalkku enne vere evideyum use cheyyan kazhiyilla
 ningalkki movie venam ennundankil😜@cunemheavens groupil poii choichattu ibada vannu start kuthu
 appol njan movie thara🤓😜allathe ibada nokki ninnattu oeu karyom illa🤦‍♂️🤓😂
 </i>"""    
     
     HELP_TEXT = """
 
-Aarade nee🤦‍♂️ avan helpum choichu vannirikkunnu ninakku njan ippam help thara
-ninakkonnum vere paniyille😂 odra🤧ninakkodanulla kandam dha avide poii odikko😂🤧🤓
-aa saidilottu mari iru 😂poda kocherakka😂"""
+Aarade nee🤦‍♂️ avan helpum choichu vannirikkunnu ninakku njan help alla und puzhungiyathu thara waite chey😂😜
+ninakkonnum vere paniyille😂 odra🤧
+aa saidilottu mari iri 😂poda kocherakka😂"""
 
     
     ABOUT_TEXT = """<b> Name</b> : <code> Auto Filter Bot</code>
