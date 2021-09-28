@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 Athe njan @cinemagenix2021 groupile file share bot ahnu🤓ningalkku enne vere evideyum use cheyyan kazhiyilla
 ningalkki movie venam ennundankil😜@cunemheavens groupil poii choichattu ibada vannu start kuthu
-appol njan movie thara🤓😜allathe ibada nokki ninnattu oeu karyom illa🤦‍♂️🤓😂
+appol njan movie thara🤓😜allathe ibada nokki ninnattu oeu karyom illa🤦‍♂️🤓😜
 </i>"""    
     
     HELP_TEXT = """
