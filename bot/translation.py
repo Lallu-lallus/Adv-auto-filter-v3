@@ -5,8 +5,8 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-Athe njan @cinemagenix2021 groupile file share bot ahnu🤓ningalkku enne vere evideyum use cheyyan kazhiyilla
-ningalkki movie venam ennundankil😜@cunemheavens groupil poii choichattu ibada vannu start kuthu
+Athe njan TKOFP groupile VIJAY annanta movies maathram share cheyyunna bot ahnu🤓ningalkku enne vere evideyum use cheyyan kazhiyilla
+ningalkku annanta movie venam ennundankil😜TKOFP groupil poii choichattu ibada vannu start kuthu
 appol njan movie thara🤓😜allathe ibada nokki ninnattu oeu karyom illa🤦‍♂️🤓😜
 </i>"""    
     
